@@ -4,7 +4,7 @@
 # ============================================================
 
 INBOX_FILE=".opencode/inbox.json"
-LOG_FILE=".opencode/inter-agent-demo.log"
+LOG_FILE=".opencode/fake-reasoning.log"
 TASK_ID="fake-reasoning-$(date +%s)"
 
 echo ""
