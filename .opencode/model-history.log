@@ -1,0 +1,40 @@
+=== MODEL HISTORY ===
+Started: 2026-06-24T12:23:08.327Z
+Configured: default
+============================================================
+
+[2026-06-24T12:23:09.490Z] Model: opencode/deepseek-v4-flash-free | Agent: title | Temp: 0.5 | MaxTokens: 32000
+[2026-06-24T12:23:09.526Z] Model: opencode/deepseek-v4-flash-free | Agent: agentic | Temp: - | MaxTokens: 32000
+=== MODEL HISTORY ===
+Started: 2026-06-24T12:31:24.771Z
+Configured: default
+============================================================
+
+[2026-06-24T12:31:25.871Z] Model: opencode/deepseek-v4-flash-free | Agent: title | Temp: 0.5 | MaxTokens: 32000
+[2026-06-24T12:31:25.901Z] Model: opencode/deepseek-v4-flash-free | Agent: agentic | Temp: - | MaxTokens: 32000
+[2026-06-24T12:31:28.206Z] Model: opencode/deepseek-v4-flash-free | Agent: agentic | Temp: - | MaxTokens: 32000
+[2026-06-24T12:31:30.148Z] Model: opencode/deepseek-v4-flash-free | Agent: agentic | Temp: - | MaxTokens: 32000
+[2026-06-24T12:31:32.450Z] Model: opencode/deepseek-v4-flash-free | Agent: agentic | Temp: - | MaxTokens: 32000
+[2026-06-24T12:31:35.488Z] Model: opencode/deepseek-v4-flash-free | Agent: agentic | Temp: - | MaxTokens: 32000
+[2026-06-24T12:31:38.262Z] Model: opencode/deepseek-v4-flash-free | Agent: agentic | Temp: - | MaxTokens: 32000
+[2026-06-24T12:31:40.279Z] Model: opencode/deepseek-v4-flash-free | Agent: agentic | Temp: - | MaxTokens: 32000
+=== MODEL HISTORY ===
+Started: 2026-06-24T12:35:49.221Z
+Configured: default
+============================================================
+
+=== MODEL HISTORY ===
+Started: 2026-06-24T14:23:33.141Z
+Configured: default
+============================================================
+
+[2026-06-24T14:34:07.361Z] Model: opencode/big-pickle | Agent: title | Temp: 0.5 | MaxTokens: 32000
+[2026-06-24T14:34:07.435Z] Model: opencode/big-pickle | Agent: agentic | Temp: - | MaxTokens: 32000
+[2026-06-24T14:34:11.180Z] Model: opencode/big-pickle | Agent: agentic | Temp: - | MaxTokens: 32000
+[2026-06-24T14:35:12.517Z] Model: opencode/big-pickle | Agent: agentic | Temp: - | MaxTokens: 32000
+[2026-06-24T14:35:18.630Z] Model: opencode/big-pickle | Agent: agentic | Temp: - | MaxTokens: 32000
+[2026-06-24T14:35:22.210Z] Model: opencode/big-pickle | Agent: agentic | Temp: - | MaxTokens: 32000
+[2026-06-24T14:35:24.888Z] Model: opencode/big-pickle | Agent: agentic | Temp: - | MaxTokens: 32000
+[2026-06-24T14:35:30.083Z] Model: opencode/big-pickle | Agent: agentic | Temp: - | MaxTokens: 32000
+[2026-06-24T14:35:32.102Z] Model: opencode/big-pickle | Agent: agentic | Temp: - | MaxTokens: 32000
+[2026-06-24T14:35:34.627Z] Model: opencode/big-pickle | Agent: agentic | Temp: - | MaxTokens: 32000

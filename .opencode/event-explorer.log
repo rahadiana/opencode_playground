@@ -1,0 +1,2067 @@
+[2026-06-24T12:23:08.327Z] 🚀 EVENT EXPLORER STARTED
+[2026-06-24T12:23:08.327Z] 📁 Log file: /home/runner/plugin_coba/.opencode/event-explorer.log
+[2026-06-24T12:23:08.327Z] 📁 Model history: /home/runner/plugin_coba/.opencode/model-history.log
+[2026-06-24T12:23:08.327Z] 📁 Project: [object Object]
+[2026-06-24T12:23:08.327Z] 📁 Directory: /home/runner/plugin_coba
+
+  ╔════════════════════════════════════════════════════════════╗  [2026-06-24T12:23:08.327Z]
+  ║  🔧 EVENT EXPLORER — ACTIVE                              ║
+  ║  ⚠️  No model configured in opencode.json                ║
+  ╚════════════════════════════════════════════════════════════╝
+
+[2026-06-24T12:23:08.327Z] 📋 Username: runner
+[2026-06-24T12:23:08.327Z] 📦 Plugins terdaftar: 2 entries
+[2026-06-24T12:23:09.386Z] 💬 Chat message [unknown] (?): "(empty)..."
+[2026-06-24T12:23:09.429Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.430Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.430Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.430Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.430Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.430Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.430Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.430Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.430Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.430Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.430Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.430Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.430Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.430Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.431Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.431Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.431Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.431Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.431Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.431Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.431Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.431Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.431Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.431Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.431Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.431Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.431Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.431Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.431Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.431Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.431Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.432Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.432Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.432Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.432Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.432Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.432Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.432Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.432Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.432Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.432Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.432Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.432Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.433Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:23:09.433Z] 🛠️ Tool definition registered: "???"
+
+  ╔════════════════════════════════════════════════════════════╗  [2026-06-24T12:23:09.490Z]
+  ║  🚀 PROMPT SENT — 2026-06-24T12:23:09.490Z               ║
+  ║  Model: opencode/deepseek-v4-flash-free                  ║
+  ║  Provider: opencode  |  ID: deepseek-v4-flash-free  |  Agent: title  |  Temp: 0.5║
+  ╚════════════════════════════════════════════════════════════╝
+
+[2026-06-24T12:23:09.490Z] 🧠 LLM Params: temp=0.5, maxTokens=32000
+{
+  "model": "opencode/deepseek-v4-flash-free",
+  "agent": "title",
+  "options": {
+    "reasoningEffort": "low"
+  }
+}
+[2026-06-24T12:23:09.490Z] 📨 Chat request headers (FULL)
+{
+  "headers": {}
+}
+[2026-06-24T12:23:09.490Z] 📨 Request model: opencode/deepseek-v4-flash-free
+
+  ╔════════════════════════════════════════════════════════════╗  [2026-06-24T12:23:09.526Z]
+  ║  🚀 PROMPT SENT — 2026-06-24T12:23:09.526Z               ║
+  ║  Model: opencode/deepseek-v4-flash-free                  ║
+  ║  Provider: opencode  |  ID: deepseek-v4-flash-free  |  Agent: agentic  |  Temp: default║
+  ╚════════════════════════════════════════════════════════════╝
+
+[2026-06-24T12:23:09.526Z] 🧠 LLM Params: temp=undefined, maxTokens=32000
+{
+  "model": "opencode/deepseek-v4-flash-free",
+  "agent": "agentic",
+  "options": {}
+}
+[2026-06-24T12:23:09.526Z] 📨 Chat request headers (FULL)
+{
+  "headers": {}
+}
+[2026-06-24T12:23:09.526Z] 📨 Request model: opencode/deepseek-v4-flash-free
+[2026-06-24T12:23:13.260Z] ✅ SUCCESS AFTER: "undefined"
+{
+  "duration": "unknown",
+  "resultTruncated": "(no result)"
+}
+[2026-06-24T12:23:13.279Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.279Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.279Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.280Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.280Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.280Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.280Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.280Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.280Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.280Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.280Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.280Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.280Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.280Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.280Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.280Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.280Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.280Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.280Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.281Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.281Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.281Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.281Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.281Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.281Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.281Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.281Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.281Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.281Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.281Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.281Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.281Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.281Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.281Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.281Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.282Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.282Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.282Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.282Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.282Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.282Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.282Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.282Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.282Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.282Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:13.311Z] 🧠 LLM Params disusun (model tidak terdeteksi di params)
+{
+  "semuaKeys": [
+    "temperature",
+    "topP",
+    "topK",
+    "maxOutputTokens",
+    "options"
+  ]
+}
+[2026-06-24T12:23:13.311Z] 🧠 LLM Params detail
+{
+  "model": "⚠️ TIDAK TERDETEKSI"
+}
+[2026-06-24T12:23:13.311Z] 📨 Chat request dikirim (headers tidak mengandung model info)
+[2026-06-24T12:23:17.912Z] ⚡ BEFORE: "undefined"
+{
+  "args": {
+    "description": "Show full log with banners",
+    "command": "tail -30 /home/runner/plugin_coba/.opencode/event-explorer.log"
+  }
+}
+[2026-06-24T12:23:17.914Z] 🌐 Shell env dimuat (1 vars)
+{
+  "sample": [
+    "env"
+  ]
+}
+[2026-06-24T12:23:17.928Z] ✅ SUCCESS AFTER: "undefined"
+{
+  "duration": "unknown",
+  "resultTruncated": "(no result)"
+}
+[2026-06-24T12:23:17.975Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.975Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.975Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.975Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.975Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.975Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.975Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.975Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.975Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.975Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.976Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.976Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.976Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.976Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.976Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.976Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.976Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.976Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.976Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.976Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.976Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.976Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.977Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.977Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.977Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.977Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.977Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.977Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.977Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.977Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.977Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.977Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.977Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.977Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.978Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.978Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.978Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.978Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.978Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.978Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.978Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.978Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.978Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.978Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:17.978Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:18.023Z] 🧠 LLM Params disusun (model tidak terdeteksi di params)
+{
+  "semuaKeys": [
+    "temperature",
+    "topP",
+    "topK",
+    "maxOutputTokens",
+    "options"
+  ]
+}
+[2026-06-24T12:23:18.023Z] 🧠 LLM Params detail
+{
+  "model": "⚠️ TIDAK TERDETEKSI"
+}
+[2026-06-24T12:23:18.023Z] 📨 Chat request dikirim (headers tidak mengandung model info)
+[2026-06-24T12:23:21.635Z] ⚡ BEFORE: "undefined"
+{
+  "args": {
+    "command": "cat /home/runner/plugin_coba/.opencode/event-explorer.log | grep -A 5 \"PROMPT SENT\"",
+    "description": "Show PROMPT SENT banner details"
+  }
+}
+[2026-06-24T12:23:21.637Z] 🌐 Shell env dimuat (1 vars)
+{
+  "sample": [
+    "env"
+  ]
+}
+[2026-06-24T12:23:21.656Z] ✅ SUCCESS AFTER: "undefined"
+{
+  "duration": "unknown",
+  "resultTruncated": "(no result)"
+}
+[2026-06-24T12:23:21.701Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.701Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.701Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.701Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.701Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.701Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.701Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.702Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.702Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.702Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.702Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.702Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.702Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.702Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.702Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.702Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.702Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.702Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.702Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.702Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.702Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.703Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.703Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.703Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.703Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.703Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.703Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.703Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.703Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.703Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.703Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.703Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.703Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.703Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.703Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.703Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.703Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.704Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.704Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.704Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.704Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.704Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.704Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.704Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.704Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:23:21.746Z] 🧠 LLM Params disusun (model tidak terdeteksi di params)
+{
+  "semuaKeys": [
+    "temperature",
+    "topP",
+    "topK",
+    "maxOutputTokens",
+    "options"
+  ]
+}
+[2026-06-24T12:23:21.746Z] 🧠 LLM Params detail
+{
+  "model": "⚠️ TIDAK TERDETEKSI"
+}
+[2026-06-24T12:23:21.746Z] 📨 Chat request dikirim (headers tidak mengandung model info)
+[2026-06-24T12:24:17.867Z] 💬 Chat message [unknown]: "(empty)..."
+[2026-06-24T12:24:17.888Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.888Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.888Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.888Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.889Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.889Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.889Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.889Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.889Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.889Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.889Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.889Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.889Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.889Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.889Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.889Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.889Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.889Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.889Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.890Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.890Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.890Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.890Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.890Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.890Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.890Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.890Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.890Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.890Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.890Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.890Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.890Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.890Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.890Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.890Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.890Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.891Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.891Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.891Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.891Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.891Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.891Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.891Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.891Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.891Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:17.918Z] 🧠 LLM Params disusun (model tidak terdeteksi di params)
+{
+  "semuaKeys": [
+    "temperature",
+    "topP",
+    "topK",
+    "maxOutputTokens",
+    "options"
+  ]
+}
+[2026-06-24T12:24:17.918Z] 🧠 LLM Params detail
+{
+  "model": "⚠️ TIDAK TERDETEKSI"
+}
+[2026-06-24T12:24:17.918Z] 📨 Chat request dikirim (headers tidak mengandung model info)
+[2026-06-24T12:24:27.851Z] ⚡ BEFORE: "undefined"
+{
+  "args": {
+    "action": "store",
+    "title": "Opencode Plugin API — Model Detection & Event Hook Structure",
+    "category": "opencode-plugin",
+    "content": "# Opencode Plugin API (v1.17.9) — Field Mapping Hasil Eksperimen\n\n## Hook Structures (actual, from live testing)\n\n### tool.execute.before / after\n- `input.tool` — nama tool (String), BUKAN `input.name`\n- `input.sessionID` — session ID\n- `input.callID` — call ID\n- `output.args` — arguments yang akan dikirim\n- `output.error` — error message (if any)\n- `output.result` — result string\n- `output.durationMs` — durasi (tidak selalu ada)\n\n### tool.definition\n- Struktur input/output berbeda, nama tool tidak selalu terdeteksi via `input.name` atau `output.name`\n\n### chat.params\n- `input.sessionID` — String\n- `input.agent` — nama agent (String, contoh: \"title\", \"agentic\", \"build\")\n- `input.model` — object Model:\n  ```typescript\n  {\n    id: string;          // contoh: \"deepseek-v4-flash-free\"\n    providerID: string;  // contoh: \"opencode\"\n    name: string;        // contoh: \"DeepSeek V4 Flash Free\"\n    family: string;      // contoh: \"deepseek-flash-free\"\n  }\n  ```\n- `input.provider` — ProviderContext\n- `input.message` — UserMessage\n- `output.temperature` — number\n- `output.topP` — number\n- `output.topK` — number\n- `output.maxOutputTokens` — number | undefined\n- `output.options` — Record<string, any> (contoh: { reasoningEffort: \"low\" })\n\n### chat.message\n- `input.sessionID` — String\n- `input.agent` — String\n- `input.model` — object Model (sama seperti chat.params)\n- `input.messageID` — String\n- `input.variant` — String\n- `output.message` — UserMessage\n- `output.parts` — Part[]\n\n### chat.headers\n- `input.sessionID` — String\n- `input.agent` — String\n- `input.model` — object Model (sama seperti chat.params)\n- `input.message` — UserMessage\n- `output.headers` — Record<string, string> (sering kosong {})\n\n### config\n- `cfg.model` — model dari config (String, contoh: \"openai/gpt-4o\")\n- `cfg.small_model` — small model dari config\n- `cfg.username` — username\n- `cfg.plugin` — array plugin\n\n### shell.env\n- `output` — object env vars (key-value)\n\n## Key Findings\n1. Tool name ada di `input.tool`, BUKAN `input.name`\n2. Model ada di `input.model.id` + `input.model.providerID`, BUKAN `output.model`\n3. `chat.params` output tidak punya field `model` — model hanya di input\n4. `chat.headers` output sering empty `{}`\n5. Banyak tool.definition events (40+) fired saat startup — ini normal\n6. Plugin path auto-discovered: `.opencode/plugins/*.ts` atau `.opencode/plugin/*.ts`\n7. File-based logging via fs.appendFileSync lebih cocok untuk CLI mode\n8. Restart opencode diperlukan setelah perubahan plugin\n\n## Cara Detect Model Per-Request (Best Practice)\n```typescript\n\"chat.params\": async (input, output) => {\n  const inp = input as Record<string, unknown>;\n  const mdl = inp.model as Record<string, unknown> | undefined;\n  const providerID = mdl?.providerID as string | undefined;\n  const modelID = mdl?.id as string | undefined;\n  \n  if (providerID && modelID) {\n    const modelStr = `${providerID}/${modelID}`;\n    // modelStr contoh: \"opencode/deepseek-v4-flash-free\"\n  }\n}\n```",
+    "type": "skill"
+  }
+}
+[2026-06-24T12:24:27.861Z] ✅ SUCCESS AFTER: "undefined"
+{
+  "duration": "unknown",
+  "resultTruncated": "(no result)"
+}
+[2026-06-24T12:24:27.954Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.954Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.954Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.954Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.955Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.955Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.955Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.955Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.955Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.955Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.955Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.955Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.956Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.956Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.956Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.956Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.956Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.956Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.956Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.956Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.956Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.956Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.957Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.957Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.957Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.957Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.957Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.957Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.957Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.957Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.957Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.957Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.957Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.958Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.958Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.958Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.958Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.958Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.958Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.958Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.958Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.958Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.958Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.958Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.958Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:24:27.993Z] 🧠 LLM Params disusun (model tidak terdeteksi di params)
+{
+  "semuaKeys": [
+    "temperature",
+    "topP",
+    "topK",
+    "maxOutputTokens",
+    "options"
+  ]
+}
+[2026-06-24T12:24:27.993Z] 🧠 LLM Params detail
+{
+  "model": "⚠️ TIDAK TERDETEKSI"
+}
+[2026-06-24T12:24:27.994Z] 📨 Chat request dikirim (headers tidak mengandung model info)
+[2026-06-24T12:31:10.628Z] 💬 Chat message [unknown]: "(empty)..."
+[2026-06-24T12:31:10.651Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.651Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.651Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.651Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.651Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.652Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.652Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.652Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.652Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.652Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.652Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.652Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.652Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.652Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.652Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.652Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.652Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.652Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.653Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.653Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.653Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.653Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.653Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.653Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.653Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.653Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.653Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.653Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.653Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.653Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.654Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.654Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.654Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.654Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.654Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.654Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.654Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.654Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.654Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.654Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.654Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.654Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.654Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.654Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.654Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:10.690Z] 🧠 LLM Params disusun (model tidak terdeteksi di params)
+{
+  "semuaKeys": [
+    "temperature",
+    "topP",
+    "topK",
+    "maxOutputTokens",
+    "options"
+  ]
+}
+[2026-06-24T12:31:10.690Z] 🧠 LLM Params detail
+{
+  "model": "⚠️ TIDAK TERDETEKSI"
+}
+[2026-06-24T12:31:10.690Z] 📨 Chat request dikirim (headers tidak mengandung model info)
+[2026-06-24T12:31:23.184Z] ⚡ BEFORE: "undefined"
+{
+  "args": {
+    "command": "opencode run \"== SUMMARY PERCAKAPAN: EXPLORE PLUGIN OPENCODE ==\n\n## 🎯 Tujuan\nMembuat plugin opencode untuk mengeksplor event system dan mendeteksi model per-request.\n\n## 📁 File yang dibuat\n- .opencode/plugins/event-explorer.ts (plugin utama)\n- opencode.json (config)\n\n## 🔬 Key Findings dari Eksperimen\n1. Tool name ada di input.tool, BUKAN input.name\n2. Model per-request ada di chat.params → input.model (field: id + providerID)\n3. Model tidak ada di output — hanya di input\n4. chat.headers output sering empty {}\n5. File-based logging via fs.appendFileSync untuk CLI mode\n\n## ✅ Yang Berhasil\n- Plugin auto-discover dari folder .opencode/plugins/\n- Model terdeteksi per-request: opencode/deepseek-v4-flash-free\n- Log tersimpan ke file event-explorer.log + model-history.log\n- Custom tool current_model dan events_status\n\n## 📚 Pengetahuan Tersimpan di RAG\nCategory: opencode-plugin — struktur hook API, field mapping, best practice\" --print-logs 2>/dev/null",
+    "description": "Send summary to opencode session",
+    "timeout": 60000
+  }
+}
+[2026-06-24T12:31:23.187Z] 🌐 Shell env dimuat (1 vars)
+{
+  "sample": [
+    "env"
+  ]
+}
+[2026-06-24T12:31:24.770Z] 🚀 EVENT EXPLORER STARTED
+[2026-06-24T12:31:24.770Z] 📁 Log file: /home/runner/plugin_coba/.opencode/event-explorer.log
+[2026-06-24T12:31:24.770Z] 📁 Model history: /home/runner/plugin_coba/.opencode/model-history.log
+[2026-06-24T12:31:24.770Z] 📁 Project: [object Object]
+[2026-06-24T12:31:24.770Z] 📁 Directory: /home/runner/plugin_coba
+
+  ╔════════════════════════════════════════════════════════════╗  [2026-06-24T12:31:24.771Z]
+  ║  🔧 EVENT EXPLORER — ACTIVE                              ║
+  ║  ⚠️  No model configured in opencode.json                ║
+  ╚════════════════════════════════════════════════════════════╝
+
+[2026-06-24T12:31:24.771Z] 📋 Username: runner
+[2026-06-24T12:31:24.771Z] 📦 Plugins terdaftar: 2 entries
+[2026-06-24T12:31:25.766Z] 💬 Chat message [unknown] (?): "(empty)..."
+[2026-06-24T12:31:25.807Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.807Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.807Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.807Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.807Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.807Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.807Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.807Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.807Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.808Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.808Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.808Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.808Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.808Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.808Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.808Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.808Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.808Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.808Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.808Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.808Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.808Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.808Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.808Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.809Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.809Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.809Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.809Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.809Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.809Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.809Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.809Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.809Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.809Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.809Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.809Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.809Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.810Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.810Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.810Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.810Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.810Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.810Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.810Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:25.810Z] 🛠️ Tool definition registered: "???"
+
+  ╔════════════════════════════════════════════════════════════╗  [2026-06-24T12:31:25.871Z]
+  ║  🚀 PROMPT SENT — 2026-06-24T12:31:25.871Z               ║
+  ║  Model: opencode/deepseek-v4-flash-free                  ║
+  ║  Provider: opencode  |  ID: deepseek-v4-flash-free  |  Agent: title  |  Temp: 0.5║
+  ╚════════════════════════════════════════════════════════════╝
+
+[2026-06-24T12:31:25.871Z] 🧠 LLM Params: temp=0.5, maxTokens=32000
+{
+  "model": "opencode/deepseek-v4-flash-free",
+  "agent": "title",
+  "options": {
+    "reasoningEffort": "low"
+  }
+}
+[2026-06-24T12:31:25.871Z] 📨 Chat request headers (FULL)
+{
+  "headers": {}
+}
+[2026-06-24T12:31:25.871Z] 📨 Request model: opencode/deepseek-v4-flash-free
+
+  ╔════════════════════════════════════════════════════════════╗  [2026-06-24T12:31:25.901Z]
+  ║  🚀 PROMPT SENT — 2026-06-24T12:31:25.901Z               ║
+  ║  Model: opencode/deepseek-v4-flash-free                  ║
+  ║  Provider: opencode  |  ID: deepseek-v4-flash-free  |  Agent: agentic  |  Temp: default║
+  ╚════════════════════════════════════════════════════════════╝
+
+[2026-06-24T12:31:25.902Z] 🧠 LLM Params: temp=undefined, maxTokens=32000
+{
+  "model": "opencode/deepseek-v4-flash-free",
+  "agent": "agentic",
+  "options": {}
+}
+[2026-06-24T12:31:25.902Z] 📨 Chat request headers (FULL)
+{
+  "headers": {}
+}
+[2026-06-24T12:31:25.902Z] 📨 Request model: opencode/deepseek-v4-flash-free
+[2026-06-24T12:31:28.095Z] ⚡ BEFORE: "read"
+{
+  "args": {
+    "filePath": "/home/runner/plugin_coba"
+  },
+  "sessionID": "ses_10662df0effegbVGEzoHNUj1A4"
+}
+[2026-06-24T12:31:28.115Z] ✅ SUCCESS AFTER: "read"
+{
+  "duration": "unknown",
+  "resultTruncated": "(no result)"
+}
+[2026-06-24T12:31:28.178Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.179Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.179Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.179Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.179Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.179Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.179Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.179Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.179Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.179Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.180Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.180Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.180Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.180Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.180Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.180Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.180Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.180Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.180Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.180Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.180Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.180Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.181Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.181Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.181Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.181Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.181Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.181Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.181Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.181Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.181Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.181Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.181Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.181Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.181Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.182Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.182Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.182Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.182Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.182Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.182Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.182Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.182Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.182Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:28.182Z] 🛠️ Tool definition registered: "???"
+
+  ╔════════════════════════════════════════════════════════════╗  [2026-06-24T12:31:28.206Z]
+  ║  🚀 PROMPT SENT — 2026-06-24T12:31:28.206Z               ║
+  ║  Model: opencode/deepseek-v4-flash-free                  ║
+  ║  Provider: opencode  |  ID: deepseek-v4-flash-free  |  Agent: agentic  |  Temp: default║
+  ╚════════════════════════════════════════════════════════════╝
+
+[2026-06-24T12:31:28.206Z] 🧠 LLM Params: temp=undefined, maxTokens=32000
+{
+  "model": "opencode/deepseek-v4-flash-free",
+  "agent": "agentic",
+  "options": {}
+}
+[2026-06-24T12:31:28.206Z] 📨 Chat request headers (FULL)
+{
+  "headers": {}
+}
+[2026-06-24T12:31:28.206Z] 📨 Request model: opencode/deepseek-v4-flash-free
+[2026-06-24T12:31:29.817Z] ⚡ BEFORE: "read"
+{
+  "args": {
+    "filePath": "/home/runner/plugin_coba/.opencode"
+  },
+  "sessionID": "ses_10662df0effegbVGEzoHNUj1A4"
+}
+[2026-06-24T12:31:29.821Z] ✅ SUCCESS AFTER: "read"
+{
+  "duration": "unknown",
+  "resultTruncated": "(no result)"
+}
+[2026-06-24T12:31:30.020Z] ⚡ BEFORE: "read"
+{
+  "args": {
+    "filePath": "/home/runner/plugin_coba/opencode.json"
+  },
+  "sessionID": "ses_10662df0effegbVGEzoHNUj1A4"
+}
+[2026-06-24T12:31:30.037Z] ✅ SUCCESS AFTER: "read"
+{
+  "duration": "unknown",
+  "resultTruncated": "(no result)"
+}
+[2026-06-24T12:31:30.115Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.115Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.115Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.116Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.116Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.116Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.116Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.116Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.116Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.116Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.116Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.116Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.117Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.117Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.117Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.117Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.117Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.117Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.117Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.117Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.117Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.117Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.118Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.118Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.118Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.118Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.118Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.118Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.118Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.118Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.118Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.118Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.119Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.119Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.119Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.119Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.119Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.119Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.119Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.119Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.119Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.119Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.120Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.120Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:30.120Z] 🛠️ Tool definition registered: "???"
+
+  ╔════════════════════════════════════════════════════════════╗  [2026-06-24T12:31:30.148Z]
+  ║  🚀 PROMPT SENT — 2026-06-24T12:31:30.148Z               ║
+  ║  Model: opencode/deepseek-v4-flash-free                  ║
+  ║  Provider: opencode  |  ID: deepseek-v4-flash-free  |  Agent: agentic  |  Temp: default║
+  ╚════════════════════════════════════════════════════════════╝
+
+[2026-06-24T12:31:30.148Z] 🧠 LLM Params: temp=undefined, maxTokens=32000
+{
+  "model": "opencode/deepseek-v4-flash-free",
+  "agent": "agentic",
+  "options": {}
+}
+[2026-06-24T12:31:30.148Z] 📨 Chat request headers (FULL)
+{
+  "headers": {}
+}
+[2026-06-24T12:31:30.148Z] 📨 Request model: opencode/deepseek-v4-flash-free
+[2026-06-24T12:31:31.607Z] ⚡ BEFORE: "read"
+{
+  "args": {
+    "filePath": "/home/runner/plugin_coba/.opencode/plugins"
+  },
+  "sessionID": "ses_10662df0effegbVGEzoHNUj1A4"
+}
+[2026-06-24T12:31:31.618Z] ✅ SUCCESS AFTER: "read"
+{
+  "duration": "unknown",
+  "resultTruncated": "(no result)"
+}
+[2026-06-24T12:31:31.930Z] ⚡ BEFORE: "read"
+{
+  "args": {
+    "filePath": "/home/runner/plugin_coba/.opencode/package.json"
+  },
+  "sessionID": "ses_10662df0effegbVGEzoHNUj1A4"
+}
+[2026-06-24T12:31:31.942Z] ✅ SUCCESS AFTER: "read"
+{
+  "duration": "unknown",
+  "resultTruncated": "(no result)"
+}
+[2026-06-24T12:31:32.106Z] ⚡ BEFORE: "read"
+{
+  "args": {
+    "filePath": "/home/runner/plugin_coba/.opencode/event-explorer.log"
+  },
+  "sessionID": "ses_10662df0effegbVGEzoHNUj1A4"
+}
+[2026-06-24T12:31:32.127Z] ✅ SUCCESS AFTER: "read"
+{
+  "duration": "unknown",
+  "resultTruncated": "(no result)"
+}
+[2026-06-24T12:31:32.337Z] ⚡ BEFORE: "read"
+{
+  "args": {
+    "filePath": "/home/runner/plugin_coba/.opencode/model-history.log"
+  },
+  "sessionID": "ses_10662df0effegbVGEzoHNUj1A4"
+}
+[2026-06-24T12:31:32.352Z] ✅ SUCCESS AFTER: "read"
+{
+  "duration": "unknown",
+  "resultTruncated": "(no result)"
+}
+[2026-06-24T12:31:32.425Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.425Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.425Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.425Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.425Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.425Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.426Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.426Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.426Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.426Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.426Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.426Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.426Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.426Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.426Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.426Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.426Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.426Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.426Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.426Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.427Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.427Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.427Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.427Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.427Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.427Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.427Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.427Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.427Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.427Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.427Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.427Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.427Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.427Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.427Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.427Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.428Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.428Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.428Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.428Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.428Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.428Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.428Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.428Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:32.428Z] 🛠️ Tool definition registered: "???"
+
+  ╔════════════════════════════════════════════════════════════╗  [2026-06-24T12:31:32.450Z]
+  ║  🚀 PROMPT SENT — 2026-06-24T12:31:32.450Z               ║
+  ║  Model: opencode/deepseek-v4-flash-free                  ║
+  ║  Provider: opencode  |  ID: deepseek-v4-flash-free  |  Agent: agentic  |  Temp: default║
+  ╚════════════════════════════════════════════════════════════╝
+
+[2026-06-24T12:31:32.450Z] 🧠 LLM Params: temp=undefined, maxTokens=32000
+{
+  "model": "opencode/deepseek-v4-flash-free",
+  "agent": "agentic",
+  "options": {}
+}
+[2026-06-24T12:31:32.450Z] 📨 Chat request headers (FULL)
+{
+  "headers": {}
+}
+[2026-06-24T12:31:32.450Z] 📨 Request model: opencode/deepseek-v4-flash-free
+[2026-06-24T12:31:35.358Z] ⚡ BEFORE: "read"
+{
+  "args": {
+    "filePath": "/home/runner/plugin_coba/.opencode/plugins/event-explorer.ts"
+  },
+  "sessionID": "ses_10662df0effegbVGEzoHNUj1A4"
+}
+[2026-06-24T12:31:35.375Z] ✅ SUCCESS AFTER: "read"
+{
+  "duration": "unknown",
+  "resultTruncated": "(no result)"
+}
+[2026-06-24T12:31:35.460Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.460Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.460Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.460Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.460Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.460Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.460Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.460Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.460Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.460Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.460Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.460Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.460Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.460Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.461Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.461Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.461Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.461Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.461Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.461Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.461Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.461Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.461Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.461Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.461Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.461Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.461Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.461Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.461Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.462Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.462Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.462Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.462Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.462Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.462Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.462Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.462Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.462Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.462Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.462Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.462Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.462Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.462Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.462Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:35.462Z] 🛠️ Tool definition registered: "???"
+
+  ╔════════════════════════════════════════════════════════════╗  [2026-06-24T12:31:35.488Z]
+  ║  🚀 PROMPT SENT — 2026-06-24T12:31:35.488Z               ║
+  ║  Model: opencode/deepseek-v4-flash-free                  ║
+  ║  Provider: opencode  |  ID: deepseek-v4-flash-free  |  Agent: agentic  |  Temp: default║
+  ╚════════════════════════════════════════════════════════════╝
+
+[2026-06-24T12:31:35.488Z] 🧠 LLM Params: temp=undefined, maxTokens=32000
+{
+  "model": "opencode/deepseek-v4-flash-free",
+  "agent": "agentic",
+  "options": {}
+}
+[2026-06-24T12:31:35.488Z] 📨 Chat request headers (FULL)
+{
+  "headers": {}
+}
+[2026-06-24T12:31:35.488Z] 📨 Request model: opencode/deepseek-v4-flash-free
+[2026-06-24T12:31:37.748Z] ⚡ BEFORE: "agentic_rag"
+{
+  "args": {
+    "action": "search",
+    "query": "opencode plugin event hook model detection",
+    "category": "opencode-plugin"
+  },
+  "sessionID": "ses_10662df0effegbVGEzoHNUj1A4"
+}
+[2026-06-24T12:31:37.755Z] ✅ SUCCESS AFTER: "agentic_rag"
+{
+  "duration": "unknown",
+  "resultTruncated": "(no result)"
+}
+[2026-06-24T12:31:38.035Z] ⚡ BEFORE: "agentic_rag"
+{
+  "args": {
+    "action": "stats",
+    "query": "opencode-plugin"
+  },
+  "sessionID": "ses_10662df0effegbVGEzoHNUj1A4"
+}
+[2026-06-24T12:31:38.040Z] ✅ SUCCESS AFTER: "agentic_rag"
+{
+  "duration": "unknown",
+  "resultTruncated": "(no result)"
+}
+[2026-06-24T12:31:38.177Z] ⚡ BEFORE: "agentic_status"
+{
+  "args": {},
+  "sessionID": "ses_10662df0effegbVGEzoHNUj1A4"
+}
+[2026-06-24T12:31:38.186Z] ✅ SUCCESS AFTER: "agentic_status"
+{
+  "duration": "unknown",
+  "resultTruncated": "(no result)"
+}
+[2026-06-24T12:31:38.232Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.232Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.232Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.232Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.232Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.232Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.232Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.232Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.232Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.232Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.233Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.233Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.233Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.233Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.233Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.233Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.233Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.233Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.233Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.233Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.233Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.233Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.233Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.234Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.234Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.234Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.234Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.234Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.234Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.234Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.234Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.234Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.234Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.234Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.234Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.234Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.234Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.234Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.234Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.235Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.235Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.235Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.235Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.235Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:38.235Z] 🛠️ Tool definition registered: "???"
+
+  ╔════════════════════════════════════════════════════════════╗  [2026-06-24T12:31:38.262Z]
+  ║  🚀 PROMPT SENT — 2026-06-24T12:31:38.262Z               ║
+  ║  Model: opencode/deepseek-v4-flash-free                  ║
+  ║  Provider: opencode  |  ID: deepseek-v4-flash-free  |  Agent: agentic  |  Temp: default║
+  ╚════════════════════════════════════════════════════════════╝
+
+[2026-06-24T12:31:38.262Z] 🧠 LLM Params: temp=undefined, maxTokens=32000
+{
+  "model": "opencode/deepseek-v4-flash-free",
+  "agent": "agentic",
+  "options": {}
+}
+[2026-06-24T12:31:38.262Z] 📨 Chat request headers (FULL)
+{
+  "headers": {}
+}
+[2026-06-24T12:31:38.262Z] 📨 Request model: opencode/deepseek-v4-flash-free
+[2026-06-24T12:31:40.137Z] ⚡ BEFORE: "events_status"
+{
+  "args": {},
+  "sessionID": "ses_10662df0effegbVGEzoHNUj1A4"
+}
+[2026-06-24T12:31:40.138Z] 📊 STATISTIK DIMINTA
+{
+  "totalEvents": 309,
+  "perEvent": {
+    "tool.definition": 270,
+    "tool.execute.before": 12,
+    "tool.execute.after": 11,
+    "chat.params": 7,
+    "chat.headers": 7,
+    "config": 1,
+    "chat.message": 1
+  }
+}
+[2026-06-24T12:31:40.141Z] ✅ SUCCESS AFTER: "events_status"
+{
+  "duration": "unknown",
+  "resultTruncated": "(no result)"
+}
+[2026-06-24T12:31:40.253Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.253Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.253Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.253Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.253Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.253Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.253Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.253Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.253Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.254Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.254Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.254Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.254Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.254Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.254Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.254Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.254Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.254Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.254Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.254Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.254Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.255Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.255Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.255Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.255Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.255Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.255Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.255Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.255Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.255Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.255Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.255Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.256Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.256Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.256Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.256Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.256Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.256Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.256Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.256Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.256Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.256Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.256Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.256Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T12:31:40.256Z] 🛠️ Tool definition registered: "???"
+
+  ╔════════════════════════════════════════════════════════════╗  [2026-06-24T12:31:40.279Z]
+  ║  🚀 PROMPT SENT — 2026-06-24T12:31:40.279Z               ║
+  ║  Model: opencode/deepseek-v4-flash-free                  ║
+  ║  Provider: opencode  |  ID: deepseek-v4-flash-free  |  Agent: agentic  |  Temp: default║
+  ╚════════════════════════════════════════════════════════════╝
+
+[2026-06-24T12:31:40.279Z] 🧠 LLM Params: temp=undefined, maxTokens=32000
+{
+  "model": "opencode/deepseek-v4-flash-free",
+  "agent": "agentic",
+  "options": {}
+}
+[2026-06-24T12:31:40.279Z] 📨 Chat request headers (FULL)
+{
+  "headers": {}
+}
+[2026-06-24T12:31:40.279Z] 📨 Request model: opencode/deepseek-v4-flash-free
+[2026-06-24T12:31:50.143Z] ✅ SUCCESS AFTER: "undefined"
+{
+  "duration": "unknown",
+  "resultTruncated": "(no result)"
+}
+[2026-06-24T12:31:50.165Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.165Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.165Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.165Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.165Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.165Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.165Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.166Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.166Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.166Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.166Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.166Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.166Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.166Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.166Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.166Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.166Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.167Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.167Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.167Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.167Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.167Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.167Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.167Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.167Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.167Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.167Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.167Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.167Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.168Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.168Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.168Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.168Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.168Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.168Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.168Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.168Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.168Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.168Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.168Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.169Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.169Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.169Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.169Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.169Z] 🛠️ Tool definition registered: "undefined"
+[2026-06-24T12:31:50.201Z] 🧠 LLM Params disusun (model tidak terdeteksi di params)
+{
+  "semuaKeys": [
+    "temperature",
+    "topP",
+    "topK",
+    "maxOutputTokens",
+    "options"
+  ]
+}
+[2026-06-24T12:31:50.202Z] 🧠 LLM Params detail
+{
+  "model": "⚠️ TIDAK TERDETEKSI"
+}
+[2026-06-24T12:31:50.202Z] 📨 Chat request dikirim (headers tidak mengandung model info)
+[2026-06-24T12:35:49.220Z] 🚀 EVENT EXPLORER STARTED
+[2026-06-24T12:35:49.220Z] 📁 Log file: /home/runner/plugin_coba/.opencode/event-explorer.log
+[2026-06-24T12:35:49.220Z] 📁 Model history: /home/runner/plugin_coba/.opencode/model-history.log
+[2026-06-24T12:35:49.221Z] 📁 Project: [object Object]
+[2026-06-24T12:35:49.221Z] 📁 Directory: /home/runner/plugin_coba
+
+  ╔════════════════════════════════════════════════════════════╗  [2026-06-24T12:35:49.221Z]
+  ║  🔧 EVENT EXPLORER — ACTIVE                              ║
+  ║  ⚠️  No model configured in opencode.json                ║
+  ╚════════════════════════════════════════════════════════════╝
+
+[2026-06-24T12:35:49.221Z] 📋 Username: runner
+[2026-06-24T12:35:49.221Z] 📦 Plugins terdaftar: 2 entries
+[2026-06-24T14:23:33.140Z] 🚀 EVENT EXPLORER STARTED
+[2026-06-24T14:23:33.140Z] 📁 Log file: /home/runner/plugin_coba/.opencode/event-explorer.log
+[2026-06-24T14:23:33.140Z] 📁 Model history: /home/runner/plugin_coba/.opencode/model-history.log
+[2026-06-24T14:23:33.140Z] 📁 Project: [object Object]
+[2026-06-24T14:23:33.140Z] 📁 Directory: /home/runner/plugin_coba
+
+  ╔════════════════════════════════════════════════════════════╗  [2026-06-24T14:23:33.141Z]
+  ║  🔧 EVENT EXPLORER — ACTIVE                              ║
+  ║  ⚠️  No model configured in opencode.json                ║
+  ╚════════════════════════════════════════════════════════════╝
+
+[2026-06-24T14:23:33.141Z] 📋 Username: runner
+[2026-06-24T14:23:33.141Z] 📦 Plugins terdaftar: 2 entries
+[2026-06-24T14:34:07.218Z] 💬 Chat message [unknown] (?): "(empty)..."
+[2026-06-24T14:34:07.266Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.266Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.266Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.266Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.266Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.267Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.267Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.267Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.267Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.267Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.267Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.267Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.267Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.267Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.267Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.268Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.268Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.268Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.268Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.268Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.268Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.268Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.268Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.268Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.268Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.268Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.269Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.269Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.269Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.269Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.269Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.269Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.269Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.269Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.269Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.270Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.270Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.270Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.270Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.270Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.270Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.270Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.270Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.270Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:07.270Z] 🛠️ Tool definition registered: "???"
+
+  ╔════════════════════════════════════════════════════════════╗  [2026-06-24T14:34:07.361Z]
+  ║  🚀 PROMPT SENT — 2026-06-24T14:34:07.361Z               ║
+  ║  Model: opencode/big-pickle                              ║
+  ║  Provider: opencode  |  ID: big-pickle  |  Agent: title  |  Temp: 0.5║
+  ╚════════════════════════════════════════════════════════════╝
+
+[2026-06-24T14:34:07.361Z] 🧠 LLM Params: temp=0.5, maxTokens=32000
+{
+  "model": "opencode/big-pickle",
+  "agent": "title",
+  "options": {}
+}
+[2026-06-24T14:34:07.362Z] 📨 Chat request headers (FULL)
+{
+  "headers": {}
+}
+[2026-06-24T14:34:07.362Z] 📨 Request model: opencode/big-pickle
+
+  ╔════════════════════════════════════════════════════════════╗  [2026-06-24T14:34:07.435Z]
+  ║  🚀 PROMPT SENT — 2026-06-24T14:34:07.435Z               ║
+  ║  Model: opencode/big-pickle                              ║
+  ║  Provider: opencode  |  ID: big-pickle  |  Agent: agentic  |  Temp: default║
+  ╚════════════════════════════════════════════════════════════╝
+
+[2026-06-24T14:34:07.435Z] 🧠 LLM Params: temp=undefined, maxTokens=32000
+{
+  "model": "opencode/big-pickle",
+  "agent": "agentic",
+  "options": {}
+}
+[2026-06-24T14:34:07.455Z] 📨 Chat request headers (FULL)
+{
+  "headers": {}
+}
+[2026-06-24T14:34:07.455Z] 📨 Request model: opencode/big-pickle
+[2026-06-24T14:34:10.452Z] ⚡ BEFORE: "read"
+{
+  "args": {
+    "filePath": "/home/runner/plugin_coba"
+  },
+  "sessionID": "ses_105f2882affeZ2odobV8r6c2cQ"
+}
+[2026-06-24T14:34:10.472Z] ✅ SUCCESS AFTER: "read"
+{
+  "duration": "unknown",
+  "resultTruncated": "(no result)"
+}
+[2026-06-24T14:34:10.959Z] ⚡ BEFORE: "bash"
+{
+  "args": {
+    "command": "git status 2>&1 || echo \"NOT_A_GIT_REPO\"",
+    "description": "Check if git repo exists",
+    "workdir": "/home/runner/plugin_coba"
+  },
+  "sessionID": "ses_105f2882affeZ2odobV8r6c2cQ"
+}
+[2026-06-24T14:34:11.030Z] 🌐 Shell env dimuat (1 vars)
+{
+  "sample": [
+    "env"
+  ]
+}
+[2026-06-24T14:34:11.082Z] ✅ SUCCESS AFTER: "bash"
+{
+  "duration": "unknown",
+  "resultTruncated": "(no result)"
+}
+[2026-06-24T14:34:11.140Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.140Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.141Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.141Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.141Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.141Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.141Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.141Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.141Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.141Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.141Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.141Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.141Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.141Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.142Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.142Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.142Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.142Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.142Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.143Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.143Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.143Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.143Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.143Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.143Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.143Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.143Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.144Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.144Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.144Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.144Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.144Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.144Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.144Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.144Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.144Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.144Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.144Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.144Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.145Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.145Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.145Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.145Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.145Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:34:11.145Z] 🛠️ Tool definition registered: "???"
+
+  ╔════════════════════════════════════════════════════════════╗  [2026-06-24T14:34:11.180Z]
+  ║  🚀 PROMPT SENT — 2026-06-24T14:34:11.180Z               ║
+  ║  Model: opencode/big-pickle                              ║
+  ║  Provider: opencode  |  ID: big-pickle  |  Agent: agentic  |  Temp: default║
+  ╚════════════════════════════════════════════════════════════╝
+
+[2026-06-24T14:34:11.180Z] 🧠 LLM Params: temp=undefined, maxTokens=32000
+{
+  "model": "opencode/big-pickle",
+  "agent": "agentic",
+  "options": {}
+}
+[2026-06-24T14:34:11.180Z] 📨 Chat request headers (FULL)
+{
+  "headers": {}
+}
+[2026-06-24T14:34:11.180Z] 📨 Request model: opencode/big-pickle
+[2026-06-24T14:34:15.487Z] ⚡ BEFORE: "question"
+{
+  "args": {
+    "questions": [
+      {
+        "question": "Remote repository URL? Saya butuh URL GitHub/GitLab/etc tujuan push.",
+        "header": "Remote Repo URL",
+        "options": [
+          {
+            "label": "Buat repo dulu",
+            "description": "Saya buatkan repository lokal dulu, nanti saya pandu bikin remote"
+          },
+          {
+            "label": "Saya kasih URL",
+            "description": "Saya akan kasih URL remote repository tujuan"
+          }
+        ]
+      },
+      {
+        "question": "Branch utama pake apa?",
+        "header": "Branch Name",
+        "options": [
+          {
+            "label": "main",
+            "description": "Branch utama: main (recommended)"
+          },
+          {
+            "label": "master",
+            "description": "Branch utama: master"
+          }
+        ]
+      }
+    ]
+  },
+  "sessionID": "ses_105f2882affeZ2odobV8r6c2cQ"
+}
+[2026-06-24T14:35:12.466Z] ✅ SUCCESS AFTER: "question"
+{
+  "duration": "unknown",
+  "resultTruncated": "(no result)"
+}
+[2026-06-24T14:35:12.493Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.493Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.493Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.493Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.493Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.493Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.494Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.494Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.494Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.494Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.494Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.494Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.494Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.494Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.494Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.495Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.495Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.495Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.495Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.495Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.495Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.495Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.495Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.495Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.496Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.496Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.496Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.496Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.496Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.496Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.496Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.496Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.496Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.497Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.497Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.497Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.497Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.497Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.497Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.497Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.497Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.498Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.498Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.498Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:12.498Z] 🛠️ Tool definition registered: "???"
+
+  ╔════════════════════════════════════════════════════════════╗  [2026-06-24T14:35:12.517Z]
+  ║  🚀 PROMPT SENT — 2026-06-24T14:35:12.517Z               ║
+  ║  Model: opencode/big-pickle                              ║
+  ║  Provider: opencode  |  ID: big-pickle  |  Agent: agentic  |  Temp: default║
+  ╚════════════════════════════════════════════════════════════╝
+
+[2026-06-24T14:35:12.517Z] 🧠 LLM Params: temp=undefined, maxTokens=32000
+{
+  "model": "opencode/big-pickle",
+  "agent": "agentic",
+  "options": {}
+}
+[2026-06-24T14:35:12.517Z] 📨 Chat request headers (FULL)
+{
+  "headers": {}
+}
+[2026-06-24T14:35:12.517Z] 📨 Request model: opencode/big-pickle
+[2026-06-24T14:35:15.004Z] ⚡ BEFORE: "question"
+{
+  "args": {
+    "questions": [
+      {
+        "question": "Masukkan URL remote repository tujuan:",
+        "header": "Remote Repo URL",
+        "options": []
+      }
+    ]
+  },
+  "sessionID": "ses_105f2882affeZ2odobV8r6c2cQ"
+}
+[2026-06-24T14:35:18.587Z] ✅ SUCCESS AFTER: "question"
+{
+  "duration": "unknown",
+  "resultTruncated": "(no result)"
+}
+[2026-06-24T14:35:18.608Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.608Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.608Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.608Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.609Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.609Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.609Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.609Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.609Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.609Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.609Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.609Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.609Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.610Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.610Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.610Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.610Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.610Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.610Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.610Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.610Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.610Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.611Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.611Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.611Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.611Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.611Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.611Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.611Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.611Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.612Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.612Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.612Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.612Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.612Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.612Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.612Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.612Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.612Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.613Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.613Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.613Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.613Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.613Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:18.613Z] 🛠️ Tool definition registered: "???"
+
+  ╔════════════════════════════════════════════════════════════╗  [2026-06-24T14:35:18.630Z]
+  ║  🚀 PROMPT SENT — 2026-06-24T14:35:18.630Z               ║
+  ║  Model: opencode/big-pickle                              ║
+  ║  Provider: opencode  |  ID: big-pickle  |  Agent: agentic  |  Temp: default║
+  ╚════════════════════════════════════════════════════════════╝
+
+[2026-06-24T14:35:18.630Z] 🧠 LLM Params: temp=undefined, maxTokens=32000
+{
+  "model": "opencode/big-pickle",
+  "agent": "agentic",
+  "options": {}
+}
+[2026-06-24T14:35:18.630Z] 📨 Chat request headers (FULL)
+{
+  "headers": {}
+}
+[2026-06-24T14:35:18.630Z] 📨 Request model: opencode/big-pickle
+[2026-06-24T14:35:21.884Z] ⚡ BEFORE: "read"
+{
+  "args": {
+    "filePath": "/home/runner/plugin_coba/opencode.json"
+  },
+  "sessionID": "ses_105f2882affeZ2odobV8r6c2cQ"
+}
+[2026-06-24T14:35:21.896Z] ✅ SUCCESS AFTER: "read"
+{
+  "duration": "unknown",
+  "resultTruncated": "(no result)"
+}
+[2026-06-24T14:35:22.106Z] ⚡ BEFORE: "read"
+{
+  "args": {
+    "filePath": "/home/runner/plugin_coba/.opencode"
+  },
+  "sessionID": "ses_105f2882affeZ2odobV8r6c2cQ"
+}
+[2026-06-24T14:35:22.110Z] ✅ SUCCESS AFTER: "read"
+{
+  "duration": "unknown",
+  "resultTruncated": "(no result)"
+}
+[2026-06-24T14:35:22.183Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.184Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.184Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.184Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.184Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.184Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.184Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.184Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.184Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.184Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.184Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.185Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.185Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.185Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.185Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.185Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.185Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.186Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.186Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.186Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.186Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.186Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.186Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.186Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.186Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.186Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.187Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.187Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.187Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.187Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.187Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.187Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.187Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.187Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.187Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.187Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.187Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.187Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.188Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.188Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.188Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.188Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.188Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.188Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:22.188Z] 🛠️ Tool definition registered: "???"
+
+  ╔════════════════════════════════════════════════════════════╗  [2026-06-24T14:35:22.210Z]
+  ║  🚀 PROMPT SENT — 2026-06-24T14:35:22.210Z               ║
+  ║  Model: opencode/big-pickle                              ║
+  ║  Provider: opencode  |  ID: big-pickle  |  Agent: agentic  |  Temp: default║
+  ╚════════════════════════════════════════════════════════════╝
+
+[2026-06-24T14:35:22.210Z] 🧠 LLM Params: temp=undefined, maxTokens=32000
+{
+  "model": "opencode/big-pickle",
+  "agent": "agentic",
+  "options": {}
+}
+[2026-06-24T14:35:22.210Z] 📨 Chat request headers (FULL)
+{
+  "headers": {}
+}
+[2026-06-24T14:35:22.210Z] 📨 Request model: opencode/big-pickle
+[2026-06-24T14:35:24.549Z] ⚡ BEFORE: "read"
+{
+  "args": {
+    "filePath": "/home/runner/plugin_coba/.opencode/.gitignore"
+  },
+  "sessionID": "ses_105f2882affeZ2odobV8r6c2cQ"
+}
+[2026-06-24T14:35:24.563Z] ✅ SUCCESS AFTER: "read"
+{
+  "duration": "unknown",
+  "resultTruncated": "(no result)"
+}
+[2026-06-24T14:35:24.804Z] ⚡ BEFORE: "read"
+{
+  "args": {
+    "filePath": "/home/runner/plugin_coba/.opencode/package.json"
+  },
+  "sessionID": "ses_105f2882affeZ2odobV8r6c2cQ"
+}
+[2026-06-24T14:35:24.811Z] ✅ SUCCESS AFTER: "read"
+{
+  "duration": "unknown",
+  "resultTruncated": "(no result)"
+}
+[2026-06-24T14:35:24.863Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.863Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.863Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.863Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.863Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.864Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.864Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.864Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.864Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.864Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.864Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.864Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.864Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.864Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.864Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.864Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.864Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.864Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.864Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.865Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.865Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.865Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.865Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.865Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.865Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.865Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.865Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.865Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.865Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.865Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.865Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.865Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.865Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.865Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.866Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.866Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.866Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.866Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.866Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.866Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.866Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.866Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.866Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.866Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:24.866Z] 🛠️ Tool definition registered: "???"
+
+  ╔════════════════════════════════════════════════════════════╗  [2026-06-24T14:35:24.888Z]
+  ║  🚀 PROMPT SENT — 2026-06-24T14:35:24.888Z               ║
+  ║  Model: opencode/big-pickle                              ║
+  ║  Provider: opencode  |  ID: big-pickle  |  Agent: agentic  |  Temp: default║
+  ╚════════════════════════════════════════════════════════════╝
+
+[2026-06-24T14:35:24.888Z] 🧠 LLM Params: temp=undefined, maxTokens=32000
+{
+  "model": "opencode/big-pickle",
+  "agent": "agentic",
+  "options": {}
+}
+[2026-06-24T14:35:24.888Z] 📨 Chat request headers (FULL)
+{
+  "headers": {}
+}
+[2026-06-24T14:35:24.888Z] 📨 Request model: opencode/big-pickle
+[2026-06-24T14:35:29.957Z] ⚡ BEFORE: "todowrite"
+{
+  "args": {
+    "todos": [
+      {
+        "content": "Init git repository",
+        "status": "in_progress",
+        "priority": "high"
+      },
+      {
+        "content": "Add all files dan commit",
+        "status": "pending",
+        "priority": "high"
+      },
+      {
+        "content": "Add remote dan push ke GitHub",
+        "status": "pending",
+        "priority": "high"
+      }
+    ]
+  },
+  "sessionID": "ses_105f2882affeZ2odobV8r6c2cQ"
+}
+[2026-06-24T14:35:29.960Z] ✅ SUCCESS AFTER: "todowrite"
+{
+  "duration": "unknown",
+  "resultTruncated": "(no result)"
+}
+[2026-06-24T14:35:30.056Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.056Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.056Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.056Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.056Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.056Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.056Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.057Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.057Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.057Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.057Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.057Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.057Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.057Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.057Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.057Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.057Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.057Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.057Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.058Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.058Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.058Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.058Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.058Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.058Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.058Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.058Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.058Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.058Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.058Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.058Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.058Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.058Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.058Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.059Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.059Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.059Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.059Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.059Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.059Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.059Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.059Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.059Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.059Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:30.059Z] 🛠️ Tool definition registered: "???"
+
+  ╔════════════════════════════════════════════════════════════╗  [2026-06-24T14:35:30.083Z]
+  ║  🚀 PROMPT SENT — 2026-06-24T14:35:30.083Z               ║
+  ║  Model: opencode/big-pickle                              ║
+  ║  Provider: opencode  |  ID: big-pickle  |  Agent: agentic  |  Temp: default║
+  ╚════════════════════════════════════════════════════════════╝
+
+[2026-06-24T14:35:30.083Z] 🧠 LLM Params: temp=undefined, maxTokens=32000
+{
+  "model": "opencode/big-pickle",
+  "agent": "agentic",
+  "options": {}
+}
+[2026-06-24T14:35:30.084Z] 📨 Chat request headers (FULL)
+{
+  "headers": {}
+}
+[2026-06-24T14:35:30.084Z] 📨 Request model: opencode/big-pickle
+[2026-06-24T14:35:31.966Z] ⚡ BEFORE: "bash"
+{
+  "args": {
+    "description": "Initialize git repository",
+    "command": "git init && git checkout -b main",
+    "workdir": "/home/runner/plugin_coba"
+  },
+  "sessionID": "ses_105f2882affeZ2odobV8r6c2cQ"
+}
+[2026-06-24T14:35:31.972Z] 🌐 Shell env dimuat (1 vars)
+{
+  "sample": [
+    "env"
+  ]
+}
+[2026-06-24T14:35:32.033Z] ✅ SUCCESS AFTER: "bash"
+{
+  "duration": "unknown",
+  "resultTruncated": "(no result)"
+}
+[2026-06-24T14:35:32.056Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.056Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.056Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.057Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.057Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.057Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.057Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.057Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.057Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.057Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.057Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.057Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.057Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.057Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.058Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.058Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.058Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.058Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.058Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.058Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.058Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.058Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.058Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.059Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.059Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.059Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.059Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.059Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.059Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.059Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.059Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.059Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.059Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.059Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.060Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.060Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.060Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.060Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.060Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.060Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.060Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.060Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.060Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.060Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:32.060Z] 🛠️ Tool definition registered: "???"
+
+  ╔════════════════════════════════════════════════════════════╗  [2026-06-24T14:35:32.102Z]
+  ║  🚀 PROMPT SENT — 2026-06-24T14:35:32.102Z               ║
+  ║  Model: opencode/big-pickle                              ║
+  ║  Provider: opencode  |  ID: big-pickle  |  Agent: agentic  |  Temp: default║
+  ╚════════════════════════════════════════════════════════════╝
+
+[2026-06-24T14:35:32.102Z] 🧠 LLM Params: temp=undefined, maxTokens=32000
+{
+  "model": "opencode/big-pickle",
+  "agent": "agentic",
+  "options": {}
+}
+[2026-06-24T14:35:32.102Z] 📨 Chat request headers (FULL)
+{
+  "headers": {}
+}
+[2026-06-24T14:35:32.102Z] 📨 Request model: opencode/big-pickle
+[2026-06-24T14:35:34.500Z] ⚡ BEFORE: "todowrite"
+{
+  "args": {
+    "todos": [
+      {
+        "priority": "high",
+        "content": "Init git repository",
+        "status": "completed"
+      },
+      {
+        "priority": "high",
+        "content": "Add all files dan commit",
+        "status": "in_progress"
+      },
+      {
+        "priority": "high",
+        "content": "Add remote dan push ke GitHub",
+        "status": "pending"
+      }
+    ]
+  },
+  "sessionID": "ses_105f2882affeZ2odobV8r6c2cQ"
+}
+[2026-06-24T14:35:34.502Z] ✅ SUCCESS AFTER: "todowrite"
+{
+  "duration": "unknown",
+  "resultTruncated": "(no result)"
+}
+[2026-06-24T14:35:34.600Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.600Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.600Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.600Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.600Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.600Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.600Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.600Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.600Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.600Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.600Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.601Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.601Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.601Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.601Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.601Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.601Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.601Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.601Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.601Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.601Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.601Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.601Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.601Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.602Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.602Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.602Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.602Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.602Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.602Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.602Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.602Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.602Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.602Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.602Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.602Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.602Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.602Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.602Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.602Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.602Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.603Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.603Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.603Z] 🛠️ Tool definition registered: "???"
+[2026-06-24T14:35:34.603Z] 🛠️ Tool definition registered: "???"
+
+  ╔════════════════════════════════════════════════════════════╗  [2026-06-24T14:35:34.627Z]
+  ║  🚀 PROMPT SENT — 2026-06-24T14:35:34.627Z               ║
+  ║  Model: opencode/big-pickle                              ║
+  ║  Provider: opencode  |  ID: big-pickle  |  Agent: agentic  |  Temp: default║
+  ╚════════════════════════════════════════════════════════════╝
+
+[2026-06-24T14:35:34.627Z] 🧠 LLM Params: temp=undefined, maxTokens=32000
+{
+  "model": "opencode/big-pickle",
+  "agent": "agentic",
+  "options": {}
+}
+[2026-06-24T14:35:34.627Z] 📨 Chat request headers (FULL)
+{
+  "headers": {}
+}
+[2026-06-24T14:35:34.627Z] 📨 Request model: opencode/big-pickle
+[2026-06-24T14:35:36.522Z] ⚡ BEFORE: "bash"
+{
+  "args": {
+    "description": "Add all files and commit",
+    "command": "git add -A && git status",
+    "workdir": "/home/runner/plugin_coba"
+  },
+  "sessionID": "ses_105f2882affeZ2odobV8r6c2cQ"
+}
+[2026-06-24T14:35:36.524Z] 🌐 Shell env dimuat (1 vars)
+{
+  "sample": [
+    "env"
+  ]
+}

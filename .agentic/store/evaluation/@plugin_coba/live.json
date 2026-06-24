@@ -1,0 +1,23 @@
+{
+  "key": "live",
+  "data": {
+    "stepResults": [],
+    "errorRecoveries": [],
+    "navigations": [
+      {
+        "query": "plugin opencode plugin system",
+        "resultsCount": 0,
+        "focused": false
+      }
+    ],
+    "delegations": [
+      {
+        "taskId": "explore-plugin-events",
+        "role": "developer",
+        "success": true
+      }
+    ],
+    "skillLookups": []
+  },
+  "updatedAt": "2026-06-24T13:17:54.156Z"
+}
