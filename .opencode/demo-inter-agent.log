@@ -1,0 +1,37 @@
+
+[2026-06-24T15:24:21.000Z] 👔 Project Manager → 🏗️ Architect [result]
+  💬 "Tolong buat desain arsitektur untuk fitur login dengan JWT"
+
+[2026-06-24T15:24:21.000Z] 🏗️ Architect → 👨‍💻 Developer [result]
+  💬 "Desain selesai. API: POST /auth/login, POST /auth/refresh. DB: users + refresh_tokens. Component: LoginForm, AuthContext"
+
+[2026-06-24T15:24:21.000Z] 👨‍💻 Developer → 🏗️ Architect [clarification]
+  💬 "Apakah refresh token pakai expiry 7 hari?"
+
+[2026-06-24T15:24:21.000Z] 🏗️ Architect → 👨‍💻 Developer [result]
+  💬 "Benar. Access token 15 menit, refresh token 7 hari. Simpan di httpOnly cookie."
+
+[2026-06-24T15:24:21.000Z] 👨‍💻 Developer → 🧪 QA Engineer [review_request]
+  💬 "Implementasi login selesai. Tolong direview ya."
+
+[2026-06-24T15:24:21.000Z] 🧪 QA Engineer → 👨‍💻 Developer [review_response]
+  💬 "Tambahkan validasi email format, rate limiting 5x percobaan, dan csrf token."
+
+[2026-06-24T15:24:21.000Z] 👨‍💻 Developer → 🧪 QA Engineer [result]
+  💬 "Sudah ditambahkan validasi, rate limiting, dan csrf."
+
+[2026-06-24T15:24:21.000Z] 🧪 QA Engineer → 👨‍💻 Developer [approval]
+  💬 "LGTM! Semua edge case tercover. Approved ✅"
+
+[2026-06-24T15:24:21.000Z] 👔 Project Manager → 🏗️ Architect [result]
+  💬 "Buat desain arsitektur untuk fitur: Dark Mode"
+
+[2026-06-24T15:24:22.000Z] 🏗️ Architect → 👨‍💻 Developer [result]
+  💬 "Desain selesai. Implementasi: ThemeContext + CSS variables + toggle button + persist ke localStorage"
+
+[2026-06-24T15:24:22.000Z] 👨‍💻 Developer → 🧪 QA Engineer [review_request]
+  💬 "Implementasi Dark Mode selesai. Mohon direview."
+
+[2026-06-24T15:24:22.000Z] 🧪 QA Engineer → 👨‍💻 Developer [approval]
+  💬 "Review selesai. Dark Mode siap di-deploy. 👍"
+
