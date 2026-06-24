@@ -72,3 +72,59 @@ Configured: default
 
 [2026-06-24T14:41:47.621Z] Model: opencode/big-pickle | Agent: agentic | Temp: - | MaxTokens: 32000
 [2026-06-24T14:41:51.068Z] Model: opencode/big-pickle | Agent: agentic | Temp: - | MaxTokens: 32000
+[2026-06-24T14:41:54.927Z] Model: opencode/big-pickle | Agent: agentic | Temp: - | MaxTokens: 32000
+[2026-06-24T14:43:51.114Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:44:02.474Z] Model: opencode/deepseek-v4-flash-free | Agent: compaction | Temp: - | MaxTokens: 32000
+=== MODEL HISTORY ===
+Started: 2026-06-24T14:44:14.336Z
+Configured: default
+============================================================
+
+[2026-06-24T14:44:29.466Z] Model: opencode/deepseek-v4-flash-free | Agent: title | Temp: 0.5 | MaxTokens: 32000
+[2026-06-24T14:44:29.671Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:44:32.612Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:44:34.874Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:44:36.931Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:44:39.276Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:44:53.125Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:44:55.502Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:45:06.269Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:45:41.966Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:45:44.352Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:45:46.572Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:45:49.696Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:45:53.727Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:46:06.130Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:47:08.644Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:47:11.421Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:47:38.016Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:47:40.669Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:47:57.075Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:48:07.022Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:48:10.491Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:48:12.773Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:48:21.730Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:48:45.906Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:48:50.217Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:48:54.422Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:48:57.324Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:49:08.689Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:49:12.523Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:51:23.222Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:51:26.326Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:51:30.095Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:51:34.076Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:51:37.401Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:51:39.792Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:51:43.529Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:54:37.347Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:55:13.996Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:55:16.747Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:55:41.008Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:55:44.997Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:55:49.791Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:55:56.911Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:56:04.495Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:56:10.629Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:56:13.683Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000
+[2026-06-24T14:56:18.851Z] Model: opencode/deepseek-v4-flash-free | Agent: build | Temp: - | MaxTokens: 32000

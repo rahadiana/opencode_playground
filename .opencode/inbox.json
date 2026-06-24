@@ -1,0 +1,110 @@
+[
+  {
+    "from": "pm",
+    "to": "architect",
+    "type": "result",
+    "message": "Tolong buat desain arsitektur untuk fitur login dengan JWT",
+    "time": "2026-06-24T14:48:48.000Z",
+    "taskId": "login-v2",
+    "read": false
+  },
+  {
+    "from": "architect",
+    "to": "developer",
+    "type": "result",
+    "message": "Desain selesai. API: POST /auth/login, POST /auth/refresh. DB: users + refresh_tokens. Component: LoginForm, AuthContext",
+    "time": "2026-06-24T14:48:48.000Z",
+    "taskId": "login-v2",
+    "read": false
+  },
+  {
+    "from": "developer",
+    "to": "architect",
+    "type": "clarification",
+    "message": "Apakah refresh token pakai expiry 7 hari?",
+    "time": "2026-06-24T14:48:48.000Z",
+    "taskId": "login-v2",
+    "read": false
+  },
+  {
+    "from": "architect",
+    "to": "developer",
+    "type": "result",
+    "message": "Benar. Access token 15 menit, refresh token 7 hari. Simpan di httpOnly cookie.",
+    "time": "2026-06-24T14:48:49.000Z",
+    "taskId": "login-v2",
+    "read": false
+  },
+  {
+    "from": "developer",
+    "to": "qa",
+    "type": "review_request",
+    "message": "Implementasi login selesai. Tolong direview ya.",
+    "time": "2026-06-24T14:48:49.000Z",
+    "taskId": "login-v2",
+    "read": false
+  },
+  {
+    "from": "qa",
+    "to": "developer",
+    "type": "review_response",
+    "message": "Tambahkan validasi email format, rate limiting 5x percobaan, dan csrf token.",
+    "time": "2026-06-24T14:48:49.000Z",
+    "taskId": "login-v2",
+    "read": false
+  },
+  {
+    "from": "developer",
+    "to": "qa",
+    "type": "result",
+    "message": "Sudah ditambahkan validasi, rate limiting, dan csrf.",
+    "time": "2026-06-24T14:48:49.000Z",
+    "taskId": "login-v2",
+    "read": false
+  },
+  {
+    "from": "qa",
+    "to": "developer",
+    "type": "approval",
+    "message": "LGTM! Semua edge case tercover. Approved",
+    "time": "2026-06-24T14:48:49.000Z",
+    "taskId": "login-v2",
+    "read": false
+  },
+  {
+    "from": "pm",
+    "to": "architect",
+    "type": "result",
+    "message": "Buat desain arsitektur untuk fitur: Dark Mode",
+    "time": "2026-06-24T14:48:49.000Z",
+    "taskId": "pipeline-feature-demo",
+    "read": false
+  },
+  {
+    "from": "architect",
+    "to": "developer",
+    "type": "result",
+    "message": "Desain selesai. Implementasi: ThemeContext + CSS variables + toggle button + persist ke localStorage",
+    "time": "2026-06-24T14:48:49.000Z",
+    "taskId": "pipeline-feature-demo",
+    "read": false
+  },
+  {
+    "from": "developer",
+    "to": "qa",
+    "type": "review_request",
+    "message": "Implementasi Dark Mode selesai. Mohon direview.",
+    "time": "2026-06-24T14:48:49.000Z",
+    "taskId": "pipeline-feature-demo",
+    "read": false
+  },
+  {
+    "from": "qa",
+    "to": "developer",
+    "type": "approval",
+    "message": "Review selesai. Dark Mode siap di-deploy.",
+    "time": "2026-06-24T14:48:49.000Z",
+    "taskId": "pipeline-feature-demo",
+    "read": false
+  }
+]
