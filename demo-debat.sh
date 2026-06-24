@@ -4,8 +4,8 @@
 # Mensimulasikan debat antara dua agent dengan topik
 # ============================================================
 
-INBOX_FILE=".opencode/inbox.json"
-LOG_FILE=".opencode/inter-agent-demo.log"
+INBOX_FILE=".opencode/demo-debat-inbox.json"
+LOG_FILE=".opencode/demo-debat.log"
 
 echo ""
 echo "╔═══════════════════════════════════════════════════════════╗"

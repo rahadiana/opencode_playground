@@ -4,8 +4,8 @@
 # Baca data dari topik-panel.json
 # ============================================================
 
-INBOX_FILE=".opencode/inbox.json"
-LOG_FILE=".opencode/inter-agent-demo.log"
+INBOX_FILE=".opencode/demo-panel-inbox.json"
+LOG_FILE=".opencode/demo-panel.log"
 DATA_FILE="topik-panel.json"
 PANEL_ID="panel-$(date +%s)"
 

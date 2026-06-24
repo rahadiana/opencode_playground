@@ -2,6 +2,8 @@
   "$schema": "https://opencode.ai/config.json",
   "plugin": [
     "./.opencode/plugins/event-explorer.ts",
-    "./.opencode/plugins/inter-agent-demo.ts"
+    "./.opencode/plugins/messaging.ts",
+    "./.opencode/plugins/pipeline.ts",
+    "./.opencode/plugins/board.ts"
   ]
 }

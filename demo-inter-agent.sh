@@ -4,8 +4,8 @@
 # Mensimulasikan komunikasi antar agent tanpa agentic tools
 # ============================================================
 
-INBOX_FILE=".opencode/inbox.json"
-LOG_FILE=".opencode/inter-agent-demo.log"
+INBOX_FILE=".opencode/demo-inter-agent-inbox.json"
+LOG_FILE=".opencode/demo-inter-agent.log"
 
 echo ""
 echo "╔═══════════════════════════════════════════════════════╗"
