@@ -3,23 +3,23 @@
   "data": {
     "opencode/deepseek-v4-flash-free": {
       "model": "opencode/deepseek-v4-flash-free",
-      "totalCalls": 81,
-      "successCalls": 81,
+      "totalCalls": 185,
+      "successCalls": 185,
       "failedCalls": 0,
       "hallucinationCount": 0,
       "avgLatencyMs": 0,
-      "lastUsed": 1782304310199,
+      "lastUsed": 1782312988503,
       "consecutiveFailures": 0,
-      "consecutiveSuccesses": 81,
+      "consecutiveSuccesses": 185,
       "quarantineUntil": 0,
       "byTaskType": {
         "chat": {
-          "totalCalls": 81,
-          "successCalls": 81,
+          "totalCalls": 185,
+          "successCalls": 185,
           "failedCalls": 0,
           "hallucinationCount": 0,
           "avgLatencyMs": 0,
-          "lastUsed": 1782304310199,
+          "lastUsed": 1782312988503,
           "consecutiveFailures": 0,
           "consecutiveSuccesses": 0,
           "quarantineUntil": 0
@@ -28,23 +28,23 @@
     },
     "opencode/big-pickle": {
       "model": "opencode/big-pickle",
-      "totalCalls": 74,
-      "successCalls": 74,
+      "totalCalls": 80,
+      "successCalls": 80,
       "failedCalls": 0,
       "hallucinationCount": 0,
       "avgLatencyMs": 0,
-      "lastUsed": 1782312012683,
+      "lastUsed": 1782312114927,
       "consecutiveFailures": 0,
-      "consecutiveSuccesses": 74,
+      "consecutiveSuccesses": 80,
       "quarantineUntil": 0,
       "byTaskType": {
         "chat": {
-          "totalCalls": 74,
-          "successCalls": 74,
+          "totalCalls": 80,
+          "successCalls": 80,
           "failedCalls": 0,
           "hallucinationCount": 0,
           "avgLatencyMs": 0,
-          "lastUsed": 1782312012683,
+          "lastUsed": 1782312114927,
           "consecutiveFailures": 0,
           "consecutiveSuccesses": 0,
           "quarantineUntil": 0
@@ -52,5 +52,5 @@
       }
     }
   },
-  "updatedAt": "2026-06-24T14:40:26.013Z"
+  "updatedAt": "2026-06-24T14:57:06.657Z"
 }
