@@ -3,7 +3,7 @@
 # DEMO AGENT PALING REASONING (padahal nggak)
 # ============================================================
 
-INBOX_FILE=".opencode/inbox.json"
+INBOX_FILE=".opencode/fake-reasoning-inbox.json"
 LOG_FILE=".opencode/fake-reasoning.log"
 TASK_ID="fake-reasoning-$(date +%s)"
 
