@@ -285,17 +285,17 @@ print('CON:' + args['con'])
   echo "  ───── Ronde $i ─────"
   echo ""
 
-  # PRO argumen
-  echo "  🟢 $PRO_EMOJI $PRO_AGENT (PRO):"
+  # PRO argumen → langsung ke KONTRA
+  echo "  🟢 $PRO_EMOJI $PRO_AGENT (PRO —→ $CON_AGENT):"
   echo "    \"$PRO_ARG\""
   echo ""
-  send_debate_msg "$pro_id" "$judge_id" "result" "[Ronde $i - PRO] $PRO_ARG"
+  send_debate_msg "$pro_id" "$con_id" "result" "[Ronde $i] $PRO_ARG"
 
-  # CON argumen
-  echo "  🔴 $CON_EMOJI $CON_AGENT (KONTRA):"
+  # CON balas → langsung ke PRO
+  echo "  🔴 $CON_EMOJI $CON_AGENT (KONTRA —→ $PRO_AGENT):"
   echo "    \"$CON_ARG\""
   echo ""
-  send_debate_msg "$con_id" "$judge_id" "result" "[Ronde $i - KONTRA] $CON_ARG"
+  send_debate_msg "$con_id" "$pro_id" "result" "[Ronde $i - Balasan] $CON_ARG"
 
   echo "  $(printf '─%.0s' {1..50})"
   echo ""
