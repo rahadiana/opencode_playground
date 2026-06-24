@@ -256,7 +256,29 @@
       "tfidfDocs": []
     },
     "tech": {
-      "episodes": [],
+      "episodes": [
+        {
+          "id": "ses_105f2882affeZ2odobV8r6c2cQ",
+          "sessionId": "ses_105f2882affeZ2odobV8r6c2cQ",
+          "planGoal": "Membuat contoh inter-agent communication: agent saling ngobrol, delegasi, review, dan kolaborasi",
+          "summary": "Completed: Membuat contoh inter-agent communication: agent saling ngobrol, delegasi, review, dan kolaborasi",
+          "outcome": "success",
+          "decisions": [
+            "completed",
+            "completed",
+            "completed",
+            "completed"
+          ],
+          "filesChanged": [],
+          "timestamp": "2026-06-24T14:40:03.773Z",
+          "tags": [
+            "completed"
+          ],
+          "projectId": "plugin_coba",
+          "score": 0.5,
+          "usageCount": 0
+        }
+      ],
       "skills": [
         {
           "definition": {
@@ -388,6 +410,19 @@
             "type": "skill",
             "skillId": "skill-1782303867854"
           }
+        },
+        {
+          "id": "ep-ses_105f2882affeZ2odobV8r6c2cQ",
+          "category": "tech",
+          "title": "Membuat contoh inter-agent communication: agent saling ngobrol, delegasi, review, dan kolaborasi",
+          "content": "Completed: Membuat contoh inter-agent communication: agent saling ngobrol, delegasi, review, dan kolaborasi\ncompleted\ncompleted\ncompleted\ncompleted",
+          "keywords": [
+            "completed"
+          ],
+          "metadata": {
+            "type": "episode",
+            "episodeId": "ses_105f2882affeZ2odobV8r6c2cQ"
+          }
         }
       ]
     },
@@ -512,5 +547,5 @@
       "tfidfDocs": []
     }
   },
-  "updatedAt": "2026-06-24T14:23:33.121Z"
+  "updatedAt": "2026-06-24T14:40:34.254Z"
 }

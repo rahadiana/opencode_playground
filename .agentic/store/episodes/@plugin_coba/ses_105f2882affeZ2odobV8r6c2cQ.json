@@ -1,0 +1,26 @@
+{
+  "key": "ses_105f2882affeZ2odobV8r6c2cQ",
+  "data": {
+    "id": "ep-1782312003773-8eou",
+    "sessionId": "ses_105f2882affeZ2odobV8r6c2cQ",
+    "projectId": "plugin_coba",
+    "planGoal": "Membuat contoh inter-agent communication: agent saling ngobrol, delegasi, review, dan kolaborasi",
+    "summary": "Completed: Membuat contoh inter-agent communication: agent saling ngobrol, delegasi, review, dan kolaborasi",
+    "outcome": "success",
+    "decisions": [
+      "completed",
+      "completed",
+      "completed",
+      "completed"
+    ],
+    "filesChanged": [],
+    "domain": "generic",
+    "timestamp": "2026-06-24T14:40:03.773Z",
+    "tags": [
+      "completed"
+    ],
+    "score": 1,
+    "usageCount": 0
+  },
+  "updatedAt": "2026-06-24T14:40:03.773Z"
+}
