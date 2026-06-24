@@ -1,0 +1,71 @@
+[
+  {
+    "key": "ai-ganti-programmer",
+    "topic": "AI akan menggantikan programmer",
+    "emoji": "🤖",
+    "sides": ["SETUJU", "NETRAL", "TIDAK SETUJU"],
+    "rounds": [
+      {
+        "deepseek": "Automasi coding sudah nyata. Copilot, Cursor, Devin nulis 70% kode production. Programmer bakal bergeser ke supervisor AI.",
+        "big-pickle": "Perlu dibedakan: coding vs software engineering. Coding bisa diganti, engineering (requirement, arsitektur, decision making) tetap butuh manusia.",
+        "claude": "Pertanyaannya bukan 'apakah' tapi 'bagaimana'. AI akan mengubah peran programmer, bukan menghilangkan. Yang hilang adalah repetitive coding, yang lahir adalah AI orchestrator."
+      },
+      {
+        "deepseek": "Bootstrap startup sekarang cukup 1 orang + AI. Dulu butuh 5-10 engineer. Tren ini eksponensial. 5 tahun lagi? 1 AI bisa ganti 100 dev.",
+        "big-pickle": "Produktivitas naik, tapi kompleksitas system juga naik. AI generate kode cepat, tapi debugging kode AI butuh skill lebih tinggi. Ada market baru: AI auditor, prompt engineer, safety engineer.",
+        "claude": "Efisiensi bukan satu-satunya metrik. Ada nilai lain: maintainability, ethical consideration, human judgment. AI belum bisa tanggung jawab atas kode production."
+      },
+      {
+        "deepseek": "History repeats. Dulu compiler dianggap bakal hilangkan programmer assembly. Nyatanya? Programming malah makin luas aksesnya. AI adalah compiler level berikutnya.",
+        "big-pickle": "Analoginya tepat. Setiap abstraksi baru (assembly ke C, C ke Python) memperluas akses, bukan menghilangkan profesi. AI adalah abstraksi tertinggi sejauh ini.",
+        "claude": "Saya setuju dengan analogi historical. Tapi perlu diingat: akses lebih luas berarti persaingan lebih ketat. Programmer harus naik level: dari 'how to code' ke 'what to build dan why'."
+      }
+    ]
+  },
+  {
+    "key": "open-vs-closed",
+    "topic": "Open Source vs Closed Source AI",
+    "emoji": "🔓",
+    "sides": ["OPEN SOURCE", "CLOSED SOURCE", "MODERAT"],
+    "rounds": [
+      {
+        "deepseek": "Open source AI (Llama, Mistral) performanya sudah mengejar GPT-4. Dengan fine-tuning, hasilnya bisa lebih spesifik dan murah. Masa depan ada di open source.",
+        "big-pickle": "Closed source (GPT-4, Claude) punya safety guardrail lebih ketat. Open source bisa dimanipulasi, di-fine-tune untuk konten berbahaya. Security trade-off signifikan.",
+        "claude": "Keduanya perlu coexist. Open source untuk transparansi riset dan akses demokratis. Closed source untuk enterprise dengan compliance dan safety requirement ketat."
+      },
+      {
+        "deepseek": "Open source mendorong inovasi lebih cepat. Ribuan peneliti bisa kontribusi. Closed source jadi bottleneck karena cuma 1 perusahaan yang kontrol.",
+        "big-pickle": "Inovasi open source kadang chaotic. Tanpa governance jelas, banyak fork dan fragmentasi. Closed source memberikan product experience konsisten dan terdukung.",
+        "claude": "Open source itu demokrasi, closed source itu aristokrasi. Keduanya ekstrem. Yang ideal: open weights dengan safety layer di atasnya."
+      },
+      {
+        "deepseek": "LLaMA 3.1 405B open weight. Performance setara GPT-4. Cost inference 10x lebih murah. Bisnis rasional pasti pilih open source.",
+        "big-pickle": "Total cost of ownership tidak cuma inference. Maintenance, deployment, security auditing semuanya mahal. Managed API closed source sering lebih murah overall.",
+        "claude": "Pilihan tergantung konteks: startup? Open source. Enterprise regulated? Closed source. Peneliti? Open source. Yang penting bukan open vs closed, tapi bagaimana AI digunakan responsibly."
+      }
+    ]
+  },
+  {
+    "key": "frontend-framework",
+    "topic": "Frontend Framework: React vs Vue vs Svelte",
+    "emoji": "🖥️",
+    "sides": ["REACT", "VUE", "SVELTE"],
+    "rounds": [
+      {
+        "deepseek": "React dominan 80% pasar. Ekosistem paling matang. Next.js, React Native, Remix. Satu bahasa untuk semua platform. Pilihan rasional.",
+        "big-pickle": "Vue 3 + Vite punya developer experience superior. Composition API setara React hooks tapi lebih clean. Learning curve paling landai.",
+        "claude": "Svelte adalah paradigm shift. No virtual DOM, compile-time optimization. Bundle size terkecil, runtime tercepat. Masa depan frontend mungkin no framework."
+      },
+      {
+        "deepseek": "React bukan cuma library, tapi standar industri. Cari developer React gampang. Cari Svelte developer? Sulit. Business decision.",
+        "big-pickle": "Vue dipakai di Alibaba, Xiaomi, GitLab. Ekosistem enterprise kuat. Documentation terbaik di kelasnya. Developer Vue lebih loyal.",
+        "claude": "Framework war itu distraction. Yang penting: tim bisa deliver value. Pilih yang tim suka, karena happy team sama dengan quality code."
+      },
+      {
+        "deepseek": "Job market speaks. 10 lowongan React banding 1 Vue banding 0.1 Svelte. Untuk karir jangka panjang, React adalah safe bet.",
+        "big-pickle": "Vue 3 performa sama dengan React 18 di benchmark. Tapi bundle size lebih kecil, memory usage lebih rendah. Efisien.",
+        "claude": "Metriknya salah. Bukan popularitas, tapi happiness. State of JS survey: Svelte juara 3 tahun berturut-turut. Developer bahagia produce better code."
+      }
+    ]
+  }
+]
