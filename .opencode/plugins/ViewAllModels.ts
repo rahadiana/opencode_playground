@@ -28,18 +28,17 @@ export default (async ({ client }) => {
           },
         },
         execute: async ({ provider, refresh }: { provider?: string; refresh?: string }) => {
-          const cmdArgs = ["models"];
-          if (provider) cmdArgs.push(provider);
-          if (refresh === "yes") cmdArgs.push("--refresh");
-          if (!provider) cmdArgs.push("--verbose");
-
           try {
-            const proc = Bun.spawnSync(["/usr/local/bin/opencode", ...cmdArgs]);
-            if (proc.exitCode !== 0) {
-              const stderr = proc.stderr.toString().trim();
-              return `Gagal mengambil daftar model: ${stderr || `exit code ${proc.exitCode}`}`;
+            const res = await client.config.providers() as any;
+            const providers = res?.data?.providers ?? [];
+            let result = "";
+            for (const p of providers) {
+              if (provider && p.id !== provider) continue;
+              for (const [modelId, m] of Object.entries(p.models || {})) {
+                result += `${p.id}/${modelId}\n${JSON.stringify(m, null, 2)}\n`;
+              }
             }
-            return proc.stdout.toString();
+            return result || "Tidak ada model ditemukan.";
           } catch (e) {
             const err = e as Error;
             return `Gagal mengambil daftar model: ${err.message}`;
