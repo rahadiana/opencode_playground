@@ -1,12 +1,12 @@
-import { type Plugin, tool } from "@opencode-ai/plugin";
+import type { Plugin } from "@opencode-ai/plugin";
 
-export const ViewModels: Plugin = async ({ client }) => {
+export const ViewAllModels: Plugin = async ({ client }) => {
   return {
     tool: {
-      view_all_models: tool({
-        description: "Daftar semua model yang tersedia dari semua provider.",
-        args: {},
-        async execute() {
+      view_all_models: {
+        description: "List all available models from all providers.",
+        parameters: {},
+        execute: async () => {
           const raw = await client.config.providers() as any;
           const providers = raw?.data?.providers ?? [];
           const lines: string[] = [];
@@ -19,7 +19,7 @@ export const ViewModels: Plugin = async ({ client }) => {
           }
           return lines.join("\n");
         },
-      }),
+      },
     },
   };
 };
