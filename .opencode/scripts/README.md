@@ -45,6 +45,7 @@ Kumpulan script SDK reference untuk opencode plugin development.
 | `09-dynamic-agent.ts` | Dynamic Agent | 5 creation methods (config, markdown, config.update, plugin hook, CLI), register runtime agent, agent tools |
 | `10-inter-agent.ts` | Inter-Agent | Task tool, subtask part, agent part, child sessions, fork, message passing (inbox pattern), orchestration, coordination tools, event-based coordination |
 | `11-skills.ts` | Skills | SKILL.md format, read/write skill, skill di main agent, skill di subagent, permission, custom tools, auto-loader plugin |
+| `12-supplement.ts` | SDK Supplement | Project, session.diff/promptAsync, Command, Provider, Tool, Instance, File list, MCP, LSP, Formatter, consolidated type reference |
 
 ## Cara Pakai
 
